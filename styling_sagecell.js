@@ -1,0 +1,1 @@
+isagecell.makeSagecell({"inputLocation": ".sage"});
